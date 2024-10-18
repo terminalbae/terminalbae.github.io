@@ -1,0 +1,4 @@
+title: Your Site Title
+description: A description of your site
+baseurl: "" # Leave this blank for user/organization pages, set to "/project-name" for project pages
+url: "https://yourusername.github.io" # The base URL of your site
