@@ -7,18 +7,45 @@ permalink: /services/  # Optional: Makes the URL user-friendly
 
 ## Our Services
 
-At Mangrove Minds, we offer a range of services designed to empower individuals and organizations through the effective use of data and creativity. Our mission is to cultivate solutions that are simple, sufficient, and sustainable.
+At Mangrove Minds, we cultivate simple, sufficient, independent, and joyfully sustainable creations that bridge the worlds of data and artistry. Our services empower individuals and organizations to find joy and creativity in their data journey, fostering a deeper understanding of the stories that numbers can tell.
 
-### Our Sub-Brands
+We are dedicated to enhancing lives, protecting ecosystems, and supporting resilient communities. Explore our diverse offerings below, and let’s collaborate to transform your ideas into impactful realities.
 
-#### DataRoots
-DataRoots focuses on harnessing the power of data to provide actionable insights and strategic guidance. We offer:
+### DataRoots
 
-- **Data Consulting**: Tailored data analysis, data engineering, and machine learning services that transform raw data into valuable insights.
-- **Data Strategy Development**: Helping organizations create robust data strategies for better decision-making.
-- **Workshops**: Interactive sessions that empower teams to effectively use data in their projects.
+Data is more than just numbers; it's a powerful tool for insight and decision-making. Our mission is to help organizations unlock the potential of their data through a comprehensive suite of services designed to transform raw information into actionable insights.
 
-#### Seed to Stream
+#### DataRoots Offerings: 
+
+- **Data Analysis and Visualization** 
+Uncover actionable insights through comprehensive data analysis and engaging visualizations that transform complex data into accessible stories. Our approach ensures that you make informed decisions based on clear, data-driven insights.
+
+Benefits:
+- Effective Communication
+- Data-Informed Decisions
+
+- **Data Strategy Consulting**
+Develop tailored data strategies that align with your organizational goals. Acting as an extension of your team, we provide hands-on guidance on data collection and management, ensuring efficiency and strategic focus.
+
+Benefits:
+- Focused Guidance
+- Strategic Alignment
+
+- **Fractional Head of Data**
+Access the expertise of a seasoned data leader without the commitment of a full-time hire. Our fractional head of data service provides strategic oversight and tailored guidance on data governance, analytics, and management.
+
+Benefits:
+- Cost-Effective Leadership
+- Flexible Engagement
+
+- **Data Infrastructure Development**
+Design and implement robust data infrastructure to support efficient data collection, storage, and processing. We collaborate closely with your team to ensure a solid foundation for your data initiatives.
+
+Benefits:
+- Reliable Data Access
+- Scalability
+
+### Seed to Stream
 Seed to Stream is dedicated to promoting sustainability through creative projects and community engagement. Our offerings include:
 
 - **Creative Content Creation**: Engaging visual and written content that tells your story and resonates with your audience.
