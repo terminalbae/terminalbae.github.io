@@ -20,30 +20,30 @@ Data is more than just numbers; it's a powerful tool for insight and decision-ma
 - **Data Analysis and Visualization** 
 Uncover actionable insights through comprehensive data analysis and engaging visualizations that transform complex data into accessible stories. Our approach ensures that you make informed decisions based on clear, data-driven insights.
 
-Benefits:
-- Effective Communication
-- Data-Informed Decisions
+	Benefits:
+	- Effective Communication
+	- Data-Informed Decisions
 
 - **Data Strategy Consulting**
 Develop tailored data strategies that align with your organizational goals. Acting as an extension of your team, we provide hands-on guidance on data collection and management, ensuring efficiency and strategic focus.
 
-Benefits:
-- Focused Guidance
-- Strategic Alignment
+	Benefits:
+	- Focused Guidance
+	- Strategic Alignment
 
 - **Fractional Head of Data**
 Access the expertise of a seasoned data leader without the commitment of a full-time hire. Our fractional head of data service provides strategic oversight and tailored guidance on data governance, analytics, and management.
 
-Benefits:
-- Cost-Effective Leadership
-- Flexible Engagement
+	Benefits:
+	- Cost-Effective Leadership
+	- Flexible Engagement
 
 - **Data Infrastructure Development**
 Design and implement robust data infrastructure to support efficient data collection, storage, and processing. We collaborate closely with your team to ensure a solid foundation for your data initiatives.
 
-Benefits:
-- Reliable Data Access
-- Scalability
+	Benefits:
+	- Reliable Data Access
+	- Scalability
 
 ### Seed to Stream
 Seed to Stream is dedicated to promoting sustainability through creative projects and community engagement. Our offerings include:
