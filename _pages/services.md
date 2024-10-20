@@ -21,29 +21,29 @@ Data is more than just numbers; it's a powerful tool for insight and decision-ma
 Uncover actionable insights through comprehensive data analysis and engaging visualizations that transform complex data into accessible stories. Our approach ensures that you make informed decisions based on clear, data-driven insights.
 
 	Benefits:
-	- Effective Communication
-	- Data-Informed Decisions
+	- Effective Communication: Present data in a way that resonates with stakeholders, ensuring insights are easily understood and actionable.
+	- Data-Informed Decisions: Empower your team to act on insights with confidence, enhancing overall decision-making processes.
 
 - **Data Strategy Consulting**
 Develop tailored data strategies that align with your organizational goals. Acting as an extension of your team, we provide hands-on guidance on data collection and management, ensuring efficiency and strategic focus.
 
 	Benefits:
-	- Focused Guidance
-	- Strategic Alignment
+	- Focused Guidance: Establish measurable objectives that help assess your progress and impact, ensuring clarity in your data initiatives.
+	- Strategic Alignment: Ensure that your data initiatives directly support your business objectives, fostering a cohesive approach to data management.
 
 - **Fractional Head of Data**
 Access the expertise of a seasoned data leader without the commitment of a full-time hire. Our fractional head of data service provides strategic oversight and tailored guidance on data governance, analytics, and management.
 
 	Benefits:
-	- Cost-Effective Leadership
-	- Flexible Engagement
+	- Cost-Effective Leadership: Gain insights and experience at a fraction of the cost of a full-time position, making high-level data leadership accessible.
+	- Flexible Engagement: Enjoy the flexibility of ongoing leadership or project-based support that adapts to your specific needs, allowing for tailored solutions.
 
 - **Data Infrastructure Development**
 Design and implement robust data infrastructure to support efficient data collection, storage, and processing. We collaborate closely with your team to ensure a solid foundation for your data initiatives.
 
 	Benefits:
-	- Reliable Data Access
-	- Scalability
+	- Reliable Data Access: Ensure high-quality data is readily available for analysis and reporting, supporting informed decision-making.
+	- Scalability: Build a flexible infrastructure that grows with your organization, accommodating evolving data needs and ensuring long-term effectiveness.
 
 ### Seed to Stream
 Seed to Stream is dedicated to promoting sustainability through creative projects and community engagement. Our offerings include:

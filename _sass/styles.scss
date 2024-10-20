@@ -1,0 +1,28 @@
+@use 'variables';
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+
+    /* FONTS */
+    font-family: 'Lato', sans-serif; /* Primary font */
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Montserrat', sans-serif; /* Headings font */
+    }
+    p {
+        font-family: 'Lato', sans-serif; /* Paragraph font */
+    }
+}
+
+main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+h1, h2, h3 {
+    color: #007BFF;
+}
+
