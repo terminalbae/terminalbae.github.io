@@ -1,6 +1,5 @@
 @use 'variables';
 
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
@@ -26,3 +25,6 @@ h1, h2, h3 {
     color: #007BFF;
 }
 
+#header_logo {
+    color: variables.$green;
+}
