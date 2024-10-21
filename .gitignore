@@ -1,0 +1,20 @@
+# Jekyll Output folder
+_site/
+
+# Log files
+.jekyll-metadata
+.sass-cache/
+.jekyll-cache/
+
+
+# Dependencies
+node_modules/
+
+# Temporary files
+.DS_Store
+*.swp
+Thumbs.db
+
+# Other Jekyll build artifacts
+.bundle/
+vendor/
